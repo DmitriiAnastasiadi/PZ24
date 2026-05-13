@@ -124,7 +124,6 @@ jobs:
 Для подтверждения работоспособности проекта выполнены команды:
 
 ```powershell
-cd c:\Users\dimma\Desktop\ПИШ\2 СЕМ\Технологии создания ПО\PZ24
 cd services\tasks
 go test ./...
 go build ./...
