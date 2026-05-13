@@ -151,6 +151,10 @@ docker build -t techip-tasks:local -f Dockerfile .
 - `docker pull ghcr.io/my-org/techip-tasks:<tag>`;
 - `docker compose up -d`.
 
+## Успешная сборка в GitHub Actions
+
+![](misc/actions.png)
+
 ## Контрольные вопросы
 
 1. Чем CI отличается от CD?
